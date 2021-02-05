@@ -59,3 +59,4 @@ gem 'factory_bot_rails', group: [:development, :test]
 gem 'standard', group: :development
 gem 'delayed_job_active_record'
 gem 'faker'
+gem 'metainspector'
